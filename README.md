@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #  Hey There, I'm Diksha
 
-🎓 I’m an IT undergraduate at NSUT Delhi.
+🎓 I’m an IT undergraduate at NSUT Delhi.</br>
 ✨ I am currently learning Full Stack Web Development.
 
 <a href="https://www.linkedin.com/in/diksha-bansal-044448204/">
